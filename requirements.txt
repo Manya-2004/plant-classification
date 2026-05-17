@@ -1,0 +1,9 @@
+streamlit==1.35.0
+tensorflow==2.15.0
+numpy==1.26.4
+pillow
+requests
+google-search-results
+scikit-learn
+pandas
+opencv-python-headless
