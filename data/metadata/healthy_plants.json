@@ -1,0 +1,1413 @@
+{
+  "Aloe Vera (एलोवेरा)": {
+    "scientific_name": "Aloe barbadensis miller",
+    "medicinal_uses": "Relieves burns, wounds, skin irritation. Aids digestion, boosts immunity.",
+    "Culinary": "Used in juices and health drinks",
+    "Ornamental": "Indoor decorative succulent",
+    "Health benefits": "Heals skin, improves digestion, anti-inflammatory",
+    "Nutritional value": "Rich in vitamins A, C, E and antioxidants"    ,
+    "description": "Aloe Vera is a succulent plant widely known for its healing and soothing properties. It has thick, fleshy green leaves filled with a clear gel that is extensively used in skincare and medicine. The plant thrives in warm, dry climates and requires minimal care, making it ideal for home gardening. Aloe Vera gel is commonly applied to burns, cuts, and skin irritation due to its cooling and anti-inflammatory effects. It is also consumed in small amounts to support digestion and detoxification. The plant is drought-resistant and can grow indoors in pots or outdoors in gardens. Besides its medicinal uses, Aloe Vera also enhances indoor air quality and adds aesthetic value to spaces.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight 6-8hrs, low watering, well-drained sandy soil",
+    "disease_prevention": "Avoid overwatering\nEnsure proper drainage\nProvide sunlight\nRemove damaged leaves",
+    "usage": "Used in skincare, medicine, and health drinks"
+  },
+
+  "Indian Gooseberry (आंवला)": {
+    "scientific_name": "Phyllanthus emblica",
+    "medicinal_uses": "Boosts immunity, improves digestion, treats cough and cold",
+    "Culinary": "Used in pickles, juices, and chutneys",
+    "Ornamental": "Fruit tree",
+    "Health benefits": "Strengthens immunity, improves hair and skin",
+    "Nutritional value": "Very high in Vitamin C",
+    "description": "Indian Gooseberry, or Amla, is a small deciduous tree valued for its highly nutritious fruit. The fruit is sour and rich in Vitamin C. It is widely used in Ayurveda to improve immunity, digestion, and overall health. Amla is consumed fresh, dried, or as juice and powder. The tree grows well in tropical climates and requires moderate care. It is also used in hair oils and skincare. Its antioxidant properties make it one of the most powerful traditional superfoods.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nMaintain soil nutrients\nUse compost",
+    "usage": "Used in medicine, food, and hair care"
+  },
+
+  "Oleander (कनेर)": {
+    "scientific_name": "Nerium oleander",
+    "medicinal_uses": "Limited controlled use (toxic plant)",
+    "Culinary": "Not used",
+    "Ornamental": "Flowering shrub",
+    "Health benefits": "Not recommended for general use",
+    "Nutritional value": "Not applicable",
+    "description": "Oleander is a flowering evergreen shrub known for its attractive blooms. It is widely used in landscaping due to its drought tolerance and vibrant flowers. However, all parts of the plant are toxic if consumed. It requires minimal care and thrives in hot climates. Despite its toxicity, it is valued for decorative purposes.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, low watering, well-drained soil",
+    "disease_prevention": "Avoid overwatering\nEnsure airflow\nPrune regularly\nCheck pests",
+    "usage": "Used for ornamental gardening"
+  },
+
+  "Avocado (एवोकाडो)": {
+    "scientific_name": "Persea americana",
+    "medicinal_uses": "Supports heart health",
+    "Culinary": "Used in salads, smoothies, spreads",
+    "Ornamental": "Fruit tree",
+    "Health benefits": "Good for heart and digestion",
+    "Nutritional value": "Rich in healthy fats and potassium",
+    "description": "Avocado is a tropical fruit tree known for its creamy fruit rich in healthy fats. It is widely used in modern diets for its nutritional benefits. The tree grows best in warm climates and requires well-drained soil. Avocado is used in dishes like salads and guacamole. It supports heart health and provides essential nutrients.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, good drainage",
+    "disease_prevention": "Avoid waterlogging\nUse mulch\nProtect from pests\nEnsure drainage",
+    "usage": "Used in healthy diets and cooking"
+  },
+
+  "Malabar Spinach (बासले)": {
+    "scientific_name": "Basella alba",
+    "medicinal_uses": "Cooling effect, aids digestion",
+    "Culinary": "Used in curries and soups",
+    "Ornamental": "Climbing vine",
+    "Health benefits": "Supports digestion",
+    "Nutritional value": "Rich in iron and vitamins",
+    "description": "Malabar Spinach is a fast-growing leafy climber used as a vegetable. It thrives in hot climates and produces thick green leaves. It is commonly used in Indian cooking. The plant grows easily with support and regular watering. It is nutritious and beneficial for health.",
+    "category": "Climber",
+    "care_instructions": "Full sunlight, regular watering, provide support",
+    "disease_prevention": "Avoid overcrowding\nEnsure airflow\nUse organic fertilizer\nWater properly",
+    "usage": "Used as vegetable and medicinal plant"
+  },
+
+  "Brahmi (ब्राह्मी)": {
+    "scientific_name": "Bacopa monnieri",
+    "medicinal_uses": "Improves memory, reduces stress",
+    "Culinary": "Used in herbal preparations",
+    "Ornamental": "Ground cover plant",
+    "Health benefits": "Boosts brain function",
+    "Nutritional value": "Contains antioxidants",   
+    "description": "Brahmi is a small creeping herb widely used in Ayurvedic medicine. It is known for enhancing memory and reducing anxiety. The plant grows in moist conditions and spreads quickly. It is used in herbal medicines and tonics.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, moist soil, regular watering",
+    "disease_prevention": "Maintain moisture\nAvoid dryness\nUse organic compost\nEnsure clean soil",
+    "usage": "Used for brain health and herbal medicine"
+  },
+
+  "Caricature Plant (कारिकेचर पौधा)": {
+    "scientific_name": "Graptophyllum pictum",    
+    "medicinal_uses": "Used in traditional remedies",
+    "Culinary": "Not used",
+    "Ornamental": "Decorative foliage plant", 
+    "Health benefits": "Minor traditional uses",
+    "Nutritional value": "Not applicable",
+    "description": "Caricature Plant is an ornamental shrub known for its colorful leaves. It is grown mainly for decorative purposes in gardens. The plant thrives in warm climates and requires moderate care. It adds visual appeal to landscapes.",
+    "category": "Shrub",
+    "care_instructions": "Partial sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Avoid overwatering\nEnsure drainage\nTrim regularly\nCheck pests",
+    "usage": "Used for ornamental decoration"
+  },
+
+  "Ashoka Tree (अशोक)": {
+    "scientific_name": "Saraca asoca",
+    
+      "medicinal_uses": "Supports women's health",
+      "Culinary": "Not used",
+      "Ornamental": "Avenue and garden tree"
+    ,
+    
+      "Health benefits": "Used in Ayurveda",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Ashoka Tree is a sacred and ornamental tree known for its beautiful orange flowers. It is widely used in traditional medicine, especially for women's health. The tree grows well in tropical climates and adds beauty to landscapes.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Prune regularly\nMaintain soil health\nAvoid waterlogging\nUse compost",
+    "usage": "Used in medicine and landscaping"
+  },
+
+  "Milk Hedge (सीमा बाड़ पौधा)": {
+    "scientific_name": "Euphorbia tirucalli",
+    
+      "medicinal_uses": "Used in traditional medicine (caution)",
+      "Culinary": "Not used",
+      "Ornamental": "Hedge plant"
+    ,
+    
+      "Health benefits": "Limited medicinal use",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Milk Hedge is a succulent shrub commonly used as a natural fence. It has pencil-like stems and produces milky sap. The plant is drought-resistant and easy to grow. However, the sap can be irritating and should be handled carefully.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, low watering, dry soil",
+    "disease_prevention": "Avoid excess water\nEnsure sunlight\nHandle carefully\nCheck pests",
+    "usage": "Used as fencing and ornamental plant"
+  },
+
+  "Beans (सेम)": {
+    "scientific_name": "Phaseolus vulgaris",
+    
+      "medicinal_uses": "Supports digestion",
+      "Culinary": "Widely used vegetable",
+      "Ornamental": "Garden plant"
+    ,
+    
+      "Health benefits": "Good for heart and digestion",
+      "Nutritional value": "Rich in protein and fiber"
+    ,
+    "description": "Beans are common vegetable plants grown for their edible pods and seeds. They are rich in protein and widely used in cooking. Beans grow quickly and require support for climbing varieties. They are an important part of a healthy diet.",
+    "category": "Climber",
+    "care_instructions": "Full sunlight, regular watering, support needed",
+    "disease_prevention": "Rotate crops\nAvoid overwatering\nUse compost\nControl pests",
+    "usage": "Used as vegetable crop"
+  },
+
+  "Castor Plant (अरंडी)": {
+    "scientific_name": "Ricinus communis",
+    
+      "medicinal_uses": "Relieves constipation, used in skin treatments",
+      "Culinary": "Oil used in limited food processing",
+      "Ornamental": "Grown for large decorative leaves"
+    ,
+    
+      "Health benefits": "Laxative, anti-inflammatory",
+      "Nutritional value": "Contains essential fatty acids (oil)"
+    ,
+    "description": "Castor Plant is a fast-growing shrub known for its large, glossy leaves and seeds that produce castor oil. The plant thrives in warm climates and requires minimal care. Castor oil extracted from its seeds is widely used for medicinal and cosmetic purposes. However, the seeds are toxic if consumed raw. It is also grown as an ornamental plant due to its bold foliage.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nEnsure sunlight\nRemove infected leaves\nUse organic compost",
+    "usage": "Used for oil production and medicinal purposes"
+  },
+
+  "Chili Pepper (मिर्च)": {
+    "scientific_name": "Capsicum annuum",
+    
+      "medicinal_uses": "Boosts metabolism, improves circulation",
+      "Culinary": "Widely used spice in cooking",
+      "Ornamental": "Decorative plant with colorful fruits"
+    ,
+    
+      "Health benefits": "Improves metabolism, rich in antioxidants",
+      "Nutritional value": "High in Vitamin C and capsaicin"
+    ,
+    "description": "Chili Pepper is a widely cultivated plant known for its spicy fruits. It is used globally as a key ingredient in cooking. The plant grows well in warm climates with plenty of sunlight. Chili peppers vary in size, color, and heat level. They are also valued for their medicinal properties, especially for improving metabolism and digestion.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Avoid overwatering\nEnsure drainage\nControl pests\nUse organic fertilizers",
+    "usage": "Used as spice and medicinal plant"
+  },
+
+  "Coriander (धनिया)": {
+    "scientific_name": "Coriandrum sativum",
+    
+      "medicinal_uses": "Aids digestion, detoxifies body",
+      "Culinary": "Used as herb and spice",
+      "Ornamental": "Small herb garden plant"
+    ,
+    
+      "Health benefits": "Improves digestion and immunity",
+      "Nutritional value": "Rich in vitamins A, C, K"
+    ,
+    "description": "Coriander is a fast-growing herb widely used in cooking. Both its leaves and seeds are edible and flavorful. It is commonly used in Indian cuisine for garnishing and spice blends. The plant prefers cool climates and grows easily in pots or gardens. It also has medicinal properties that support digestion and detoxification.",
+    "category": "Herb",
+    "care_instructions": "Partial to full sunlight, regular watering, loose soil",
+    "disease_prevention": "Avoid overcrowding\nEnsure airflow\nWater moderately\nUse compost",
+    "usage": "Used in cooking and herbal remedies"
+  },
+
+  "Indian Borage (अजवाइन पत्ता)": {
+    "scientific_name": "Plectranthus amboinicus",
+    
+      "medicinal_uses": "Relieves cough, cold, throat infections",
+      "Culinary": "Used in herbal teas and chutneys",
+      "Ornamental": "Aromatic indoor plant"
+    ,
+    
+      "Health benefits": "Anti-inflammatory, antimicrobial",
+      "Nutritional value": "Contains essential oils and antioxidants"
+    ,
+    "description": "Indian Borage is a fragrant medicinal herb with thick, soft leaves. It is commonly used in home remedies for respiratory issues like cough and cold. The plant grows easily in pots and requires minimal care. Its strong aroma makes it useful in herbal teas and traditional medicine.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure airflow\nTrim regularly\nUse organic soil",
+    "usage": "Used in herbal medicine and home remedies"
+  },
+
+  "Firecracker Flower (रंगून क्रिपर)": {
+    "scientific_name": "Crossandra infundibuliformis",
+    
+      "medicinal_uses": "Used in traditional remedies",
+      "Culinary": "Not used",
+      "Ornamental": "Decorative flowering plant"
+    ,
+    
+      "Health benefits": "Minor traditional uses",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Firecracker Flower is a tropical ornamental plant known for its bright orange flowers. It is widely grown in gardens for decorative purposes. The plant prefers warm climates and partial sunlight. It blooms frequently and adds vibrant color to landscapes.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, well-drained soil",
+    "disease_prevention": "Avoid overwatering\nEnsure drainage\nRemove dead flowers\nCheck pests",
+    "usage": "Used for ornamental gardening"
+  },
+
+  "Geranium (जेरैनियम)": {
+    "scientific_name": "Pelargonium",
+    
+      "medicinal_uses": "Used in aromatherapy",
+      "Culinary": "Limited use in flavoring",
+      "Ornamental": "Popular flowering plant"
+    ,
+    
+      "Health benefits": "Reduces stress, improves mood",
+      "Nutritional value": "Contains aromatic oils"
+    ,
+    "description": "Geranium is a popular ornamental plant known for its colorful flowers and fragrant leaves. It is widely grown in pots and gardens. The plant is easy to maintain and thrives in moderate climates. It is also used in aromatherapy for its calming properties.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nEnsure airflow\nPrune regularly\nCheck pests",
+    "usage": "Used in decoration and aromatherapy"
+  },
+
+  "Henna (मेहंदी)": {
+    "scientific_name": "Lawsonia inermis",
+    
+      "medicinal_uses": "Cooling agent, treats skin conditions",
+      "Culinary": "Not used",
+      "Ornamental": "Decorative plant"
+    ,
+    
+      "Health benefits": "Natural dye, cooling effect",
+      "Nutritional value": "Contains natural compounds"
+    ,
+    "description": "Henna is a small shrub known for its leaves that are used to produce natural dye. It is widely used for body art and hair coloring. The plant grows well in hot climates and requires minimal care. It also has medicinal properties for cooling and skin treatment.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, low watering, dry soil",
+    "disease_prevention": "Avoid excess water\nEnsure sunlight\nPrune regularly\nUse organic compost",
+    "usage": "Used for dye, skincare, and decoration"
+  },
+
+  "Jackfruit (कटहल)": {
+    "scientific_name": "Artocarpus heterophyllus",
+    
+      "medicinal_uses": "Supports digestion and immunity",
+      "Culinary": "Used as fruit and vegetable",
+      "Ornamental": "Large shade tree"
+    ,
+    
+      "Health benefits": "Boosts immunity, improves digestion",
+      "Nutritional value": "Rich in fiber, vitamins, and minerals"
+    ,
+    "description": "Jackfruit is a large tropical tree known for producing the biggest edible fruit. The fruit is nutritious and used in both ripe and raw forms. It is widely consumed in Indian cuisine. The tree grows in warm climates and requires space to expand. It provides shade and food.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Avoid waterlogging\nUse mulch\nProtect from pests\nMaintain soil health",
+    "usage": "Used as food and fruit crop"
+  },
+
+  "False Daisy (भृंगराज)": {
+    "scientific_name": "Eclipta prostrata",
+    
+      "medicinal_uses": "Promotes hair growth, improves liver health",
+      "Culinary": "Used in herbal preparations",
+      "Ornamental": "Ground cover herb"
+    ,
+    
+      "Health benefits": "Supports liver and hair health",
+      "Nutritional value": "Contains bioactive compounds"
+    ,
+    "description": "False Daisy, also known as Bhringraj, is a medicinal herb widely used in Ayurveda. It is especially known for promoting hair growth and improving liver function. The plant grows easily in moist soil and spreads quickly.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, moist soil",
+    "disease_prevention": "Maintain moisture\nAvoid dryness\nUse organic compost\nEnsure clean soil",
+    "usage": "Used in herbal medicine and hair care"
+  },
+
+  "Lemon (नींबू)": {
+    "scientific_name": "Citrus limon",
+    
+      "medicinal_uses": "Boosts immunity, aids digestion",
+      "Culinary": "Used in juices, cooking, and flavoring",
+      "Ornamental": "Small fruit tree"
+    ,
+    
+      "Health benefits": "Rich in Vitamin C, detoxifying",
+      "Nutritional value": "High in Vitamin C and antioxidants"
+    ,
+    "description": "Lemon is a small evergreen tree known for its sour, vitamin-rich fruit. It is widely used in cooking and beverages. Lemons are excellent for boosting immunity and aiding digestion. The plant grows well in warm climates and requires proper sunlight.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nUse organic fertilizer\nPrune regularly\nProtect from pests",
+    "usage": "Used in food, drinks, and medicine"
+  },
+
+  "Lemongrass (लेमनग्रास)": {
+    "scientific_name": "Cymbopogon citratus",
+    
+      "medicinal_uses": "Relieves anxiety, aids digestion, reduces fever",
+      "Culinary": "Used in teas, soups, and flavoring",
+      "Ornamental": "Grown as aromatic grass"
+    ,
+    
+      "Health benefits": "Detoxifying, calming effect",
+      "Nutritional value": "Contains essential oils and antioxidants"
+    ,
+    "description": "Lemongrass is a tropical aromatic plant widely used for its citrus flavor and medicinal properties. It grows in clumps with long, slender green leaves and thrives in warm climates. The plant is commonly used in herbal teas and Asian cuisine. It is known for its calming effect and digestive benefits. Lemongrass is easy to grow and requires minimal care, making it popular in home gardens.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nTrim regularly\nEnsure airflow\nUse organic compost",
+    "usage": "Used in teas, cooking, and herbal medicine"
+  },
+
+  "Mango (आम)": {
+    "scientific_name": "Mangifera indica",
+    
+      "medicinal_uses": "Improves digestion, boosts immunity",
+      "Culinary": "Widely used fruit",
+      "Ornamental": "Large shade tree"
+    ,
+    
+      "Health benefits": "Good for digestion and immunity",
+      "Nutritional value": "Rich in Vitamin A, C, and fiber"
+    ,
+    "description": "Mango is a tropical fruit tree known as the 'king of fruits'. It produces sweet, juicy fruits that are widely loved. The tree grows large and provides dense shade. Mangoes are rich in vitamins and are consumed fresh or in juices, desserts, and pickles. The plant thrives in warm climates and requires space and sunlight.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, deep soil",
+    "disease_prevention": "Prune regularly\nAvoid waterlogging\nUse organic fertilizer\nProtect from pests",
+    "usage": "Used as fruit and in cooking"
+  },
+
+  "Guava (अमरूद)": {
+    "scientific_name": "Psidium guajava",
+    
+      "medicinal_uses": "Improves digestion, controls blood sugar",
+      "Culinary": "Consumed as fresh fruit and juices",
+      "Ornamental": "Small fruit tree"
+    ,
+    
+      "Health benefits": "Supports digestion and immunity",
+      "Nutritional value": "Rich in Vitamin C and fiber"
+    ,
+    "description": "Guava is a small tropical tree known for its nutritious fruit. The fruit is sweet and slightly tangy, rich in fiber and Vitamin C. It is widely consumed fresh or as juice. Guava leaves are also used in traditional medicine. The plant grows easily and requires moderate care.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Prune regularly\nControl pests\nUse organic compost\nAvoid excess water",
+    "usage": "Used as fruit and medicinal plant"
+  },
+
+  "Neem (नीम)": {
+    "scientific_name": "Azadirachta indica",
+    
+      "medicinal_uses": "Treats infections, boosts immunity, purifies blood",
+      "Culinary": "Limited traditional use",
+      "Ornamental": "Shade tree"
+    ,
+    
+      "Health benefits": "Antibacterial, antifungal",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Neem is a fast-growing evergreen tree known for its powerful medicinal properties. Every part of the tree is useful in traditional medicine. It is widely used for treating skin problems and infections. Neem is also used in organic farming as a natural pesticide.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, low watering, hardy soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nEnsure airflow\nUse neem oil spray",
+    "usage": "Used in medicine, agriculture, and skincare"
+  },
+
+  "Indian Mulberry (नोनी)": {
+    "scientific_name": "Morinda citrifolia",
+    
+      "medicinal_uses": "Boosts immunity, improves digestion",
+      "Culinary": "Used in juices",
+      "Ornamental": "Small tree"
+    ,
+    
+      "Health benefits": "Enhances overall wellness",
+      "Nutritional value": "Contains vitamins and antioxidants"
+    ,
+    "description": "Indian Mulberry, also known as Noni, is a medicinal plant used in traditional healing systems. Its fruit is used to prepare health juices. The plant grows well in tropical climates and requires minimal care. It is valued for its immune-boosting properties.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nMaintain soil health\nCheck pests\nUse compost",
+    "usage": "Used in herbal medicine and juices"
+  },
+
+  "Papaya (पपीता)": {
+    "scientific_name": "Carica papaya",
+    
+      "medicinal_uses": "Aids digestion, improves gut health",
+      "Culinary": "Consumed as fruit",
+      "Ornamental": "Garden plant"
+    ,
+    
+      "Health benefits": "Good for digestion and immunity",
+      "Nutritional value": "Rich in enzymes, Vitamin C"
+    ,
+    "description": "Papaya is a fast-growing tropical plant known for its sweet and soft fruit. It contains digestive enzymes like papain. The plant grows quickly and produces fruit within a year. It thrives in warm climates and requires regular care.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, regular watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nUse compost\nProtect from pests\nEnsure drainage",
+    "usage": "Used as fruit and digestive aid"
+  },
+
+  "Black Pepper (काली मिर्च)": {
+    "scientific_name": "Piper nigrum",
+    
+      "medicinal_uses": "Improves digestion, boosts metabolism",
+      "Culinary": "Widely used spice",
+      "Ornamental": "Climbing vine"
+    ,
+    
+      "Health benefits": "Enhances digestion",
+      "Nutritional value": "Contains piperine and antioxidants"
+    ,
+    "description": "Black Pepper is a flowering vine cultivated for its fruit, which is dried and used as a spice. It is one of the most commonly used spices worldwide. The plant requires support to climb and thrives in humid climates.",
+    "category": "Climber",
+    "care_instructions": "Partial sunlight, regular watering, support needed",
+    "disease_prevention": "Ensure drainage\nAvoid overwatering\nUse mulch\nControl pests",
+    "usage": "Used as spice and medicine"
+  },
+
+  "Citron Lime (बिजौरा नींबू)": {
+    "scientific_name": "Citrus medica",
+    
+      "medicinal_uses": "Improves digestion, boosts immunity",
+      "Culinary": "Used in pickles and flavoring",
+      "Ornamental": "Citrus plant"
+    ,
+    
+      "Health benefits": "Detoxifying and refreshing",
+      "Nutritional value": "Rich in Vitamin C"
+    ,
+    "description": "Citron Lime is a citrus fruit plant known for its thick rind and aromatic fruit. It is used in traditional medicine and culinary preparations like pickles. The plant requires sunlight and proper care to thrive.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nUse organic fertilizer\nControl pests",
+    "usage": "Used in cooking and medicine"
+  },
+
+  "Curry Leaves (करी पत्ता)": {
+    "scientific_name": "Murraya koenigii",
+    
+      "medicinal_uses": "Improves digestion, controls blood sugar",
+      "Culinary": "Widely used in Indian cooking",
+      "Ornamental": "Small shrub"
+    ,
+    
+      "Health benefits": "Supports digestion and metabolism",
+      "Nutritional value": "Rich in iron and vitamins"
+    ,
+    "description": "Curry Leaves plant is a small tree or shrub known for its aromatic leaves. It is widely used in Indian cuisine for flavoring dishes. The plant also has medicinal benefits and is easy to grow in warm climates.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Avoid overwatering\nPrune regularly\nUse compost\nEnsure airflow",
+    "usage": "Used in cooking and herbal medicine"
+  },
+
+  "Moringa (ड्रमस्टिक)": {
+    "scientific_name": "Moringa oleifera",
+    
+      "medicinal_uses": "Boosts immunity, improves nutrition",
+      "Culinary": "Leaves and pods used in cooking",
+      "Ornamental": "Fast-growing tree"
+    ,
+    
+      "Health benefits": "Highly nutritious, anti-inflammatory",
+      "Nutritional value": "Rich in vitamins, protein, and minerals"
+    ,
+    "description": "Moringa is a fast-growing tree known for its highly nutritious leaves and pods. It is widely used in Indian cooking and traditional medicine. The plant is drought-resistant and easy to grow, making it valuable in rural and urban areas.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, low watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nUse organic compost\nControl pests",
+    "usage": "Used as food and medicine"
+  },
+
+  "Ginger (अदरक)": {
+    "scientific_name": "Zingiber officinale",
+    
+      "medicinal_uses": "Relieves nausea, improves digestion, reduces inflammation",
+      "Culinary": "Widely used spice in cooking and tea",
+      "Ornamental": "Grown as a herbaceous plant"
+    ,
+    
+      "Health benefits": "Boosts immunity, aids digestion",
+      "Nutritional value": "Contains gingerol and antioxidants"
+    ,
+    "description": "Ginger is a widely used medicinal and culinary plant known for its underground rhizome. It has a strong aroma and spicy flavor, making it a key ingredient in many dishes and beverages. Ginger is highly valued for its digestive and anti-inflammatory properties. It grows well in warm, humid climates with partial shade. The plant requires loose, well-drained soil and regular watering. Ginger is commonly used in teas, curries, and home remedies.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, loose well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nUse healthy rhizomes\nEnsure drainage\nApply organic compost",
+    "usage": "Used in cooking, tea, and medicine"
+  },
+
+  "Hibiscus (गुड़हल)": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    
+      "medicinal_uses": "Supports hair growth, controls blood pressure",
+      "Culinary": "Used in herbal teas",
+      "Ornamental": "Popular flowering plant"
+    ,
+    
+      "Health benefits": "Improves hair health, heart health",
+      "Nutritional value": "Contains antioxidants and vitamins"
+    ,
+    "description": "Hibiscus is a tropical flowering plant known for its large, colorful blooms. It is commonly grown in gardens for ornamental purposes. The flowers are also used in herbal teas and traditional medicine. Hibiscus supports hair growth and helps in maintaining healthy blood pressure. The plant thrives in warm climates with plenty of sunlight and moderate watering.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Prune regularly\nAvoid waterlogging\nCheck pests\nUse organic fertilizers",
+    "usage": "Used in decoration, tea, and hair care"
+  },
+
+  "Jasmine (चमेली)": {
+    "scientific_name": "Jasminum",
+    
+      "medicinal_uses": "Reduces stress, improves sleep",
+      "Culinary": "Used in tea flavoring",
+      "Ornamental": "Fragrant flowering plant"
+    ,
+    
+      "Health benefits": "Calming and relaxing effect",
+      "Nutritional value": "Contains aromatic compounds"
+    ,
+    "description": "Jasmine is a fragrant flowering plant widely grown for its sweet-smelling white or yellow flowers. It is used in perfumes, teas, and religious offerings. The plant thrives in warm climates and requires support if it is a climbing variety. Jasmine is also known for its calming effect and is used in aromatherapy.",
+    "category": "Climber",
+    "care_instructions": "Full sunlight, moderate watering, support needed",
+    "disease_prevention": "Ensure airflow\nPrune regularly\nAvoid excess water\nControl pests",
+    "usage": "Used in perfumes, tea, and decoration"
+  },
+
+  "Cabbage (पत्ता गोभी)": {
+    "scientific_name": "Brassica oleracea",
+    
+      "medicinal_uses": "Supports digestion and gut health",
+      "Culinary": "Used as vegetable in various dishes",
+      "Ornamental": "Grown in kitchen gardens"
+    ,
+    
+      "Health benefits": "Good for digestion and immunity",
+      "Nutritional value": "Rich in fiber and Vitamin C"
+    ,
+    "description": "Cabbage is a leafy vegetable widely grown in cool climates. It forms a dense head of leaves and is used in salads, curries, and stir-fries. It is rich in nutrients and supports digestive health. The plant grows best in fertile soil with regular watering.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Rotate crops\nAvoid overcrowding\nControl pests\nUse organic compost",
+    "usage": "Used as vegetable"
+  },
+
+  "Marigold (गेंदा)": {
+    "scientific_name": "Tagetes",
+    
+      "medicinal_uses": "Treats skin issues, anti-inflammatory",
+      "Culinary": "Used as natural food color",
+      "Ornamental": "Popular garden flower"
+    ,
+    
+      "Health benefits": "Antibacterial, healing properties",
+      "Nutritional value": "Contains flavonoids"
+    ,
+    "description": "Marigold is a bright flowering plant commonly grown in gardens. It is used for decoration, religious purposes, and pest control in agriculture. The plant is easy to grow and thrives in sunlight. It also has medicinal uses for skin treatment.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nRemove dead flowers\nEnsure sunlight\nUse compost",
+    "usage": "Used in decoration and medicine"
+  },
+
+  "Kalmegh (कालमेघ)": {
+    "scientific_name": "Andrographis paniculata",
+    
+      "medicinal_uses": "Treats fever, boosts immunity, detoxifies liver",
+      "Culinary": "Not commonly used",
+      "Ornamental": "Medicinal herb"
+    ,
+    
+      "Health benefits": "Supports liver and immunity",
+      "Nutritional value": "Contains bioactive compounds"
+    ,
+    "description": "Kalmegh is a bitter medicinal herb widely used in Ayurveda. It is known for treating fever and improving liver function. The plant grows well in tropical climates and requires minimal care. It is highly valued for its detoxifying properties.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure airflow\nUse compost\nMaintain soil health",
+    "usage": "Used in herbal medicine"
+  },
+
+  "Onion (प्याज)": {
+    "scientific_name": "Allium cepa",
+    
+      "medicinal_uses": "Boosts immunity, improves heart health",
+      "Culinary": "Essential vegetable in cooking",
+      "Ornamental": "Kitchen garden plant"
+    ,
+    
+      "Health benefits": "Antibacterial, heart health",
+      "Nutritional value": "Rich in vitamins and minerals"
+    ,
+    "description": "Onion is a widely cultivated vegetable known for its pungent flavor. It is used in almost every cuisine worldwide. Onions are rich in antioxidants and support heart health. The plant grows easily in well-drained soil and requires moderate care.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, loose soil",
+    "disease_prevention": "Avoid waterlogging\nRotate crops\nEnsure spacing\nUse organic compost",
+    "usage": "Used as vegetable and spice"
+  },
+
+  "Giloy (गिलोय)": {
+    "scientific_name": "Tinospora cordifolia",
+    
+      "medicinal_uses": "Boosts immunity, treats fever, detoxifies body",
+      "Culinary": "Used in herbal drinks",
+      "Ornamental": "Climbing medicinal plant"
+    ,
+    
+      "Health benefits": "Strengthens immunity",
+      "Nutritional value": "Contains alkaloids and antioxidants"
+    ,
+    "description": "Giloy is a climbing medicinal plant widely used in Ayurveda. It is known for boosting immunity and treating fever. The plant grows easily with support and thrives in warm climates. It is commonly used in herbal decoctions.",
+    "category": "Climber",
+    "care_instructions": "Partial sunlight, moderate watering, support needed",
+    "disease_prevention": "Ensure drainage\nAvoid excess water\nPrune regularly\nUse compost",
+    "usage": "Used in herbal medicine"
+  },
+
+  "Ashwagandha (अश्वगंधा)": {
+    "scientific_name": "Withania somnifera",
+    
+      "medicinal_uses": "Reduces stress, improves stamina",
+      "Culinary": "Used in herbal preparations",
+      "Ornamental": "Medicinal herb"
+    ,
+    
+      "Health benefits": "Adaptogen, reduces anxiety",
+      "Nutritional value": "Contains withanolides"
+    ,
+    "description": "Ashwagandha is a powerful medicinal herb used in Ayurveda for reducing stress and improving strength. It grows well in dry climates and requires minimal care. The roots are mainly used for medicinal purposes.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, low watering, dry soil",
+    "disease_prevention": "Avoid overwatering\nEnsure drainage\nUse organic compost\nMaintain soil health",
+    "usage": "Used in herbal medicine"
+  },
+
+  "Balloon Vine (कनफटा बेल)": {
+    "scientific_name": "Cardiospermum halicacabum",
+    
+      "medicinal_uses": "Treats joint pain, skin issues",
+      "Culinary": "Used in traditional dishes",
+      "Ornamental": "Climbing plant"
+    ,
+    
+      "Health benefits": "Anti-inflammatory",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Balloon Vine is a fast-growing climbing plant known for its balloon-like seed pods. It is used in traditional medicine to treat joint pain and skin problems. The plant grows easily and requires support.",
+    "category": "Climber",
+    "care_instructions": "Full sunlight, regular watering, support needed",
+    "disease_prevention": "Avoid overcrowding\nEnsure airflow\nUse compost\nControl pests",
+    "usage": "Used in medicine and traditional cooking"
+  },
+
+  "Betel Leaf (पान)": {
+    "scientific_name": "Piper betle",
+    
+      "medicinal_uses": "Aids digestion, freshens breath",
+      "Culinary": "Used in paan and traditional preparations",
+      "Ornamental": "Climbing vine"
+    ,
+    
+      "Health benefits": "Improves digestion, antibacterial",
+      "Nutritional value": "Contains essential oils"
+    ,
+    "description": "Betel Leaf is a popular climbing plant widely used in Indian culture. The leaves are heart-shaped and aromatic. They are commonly used in paan and traditional medicine. The plant thrives in warm, humid conditions and requires support to grow.",
+    "category": "Climber",
+    "care_instructions": "Partial sunlight, regular watering, support needed",
+    "disease_prevention": "Ensure humidity\nAvoid waterlogging\nProvide support\nUse organic compost",
+    "usage": "Used in traditional consumption and medicine"
+  },
+
+  "Areca Nut (सुपारी)": {
+    "scientific_name": "Areca catechu",
+    
+      "medicinal_uses": "Used in traditional medicine (limited use)",
+      "Culinary": "Used in paan preparations",
+      "Ornamental": "Tall palm tree"
+    ,
+    
+      "Health benefits": "Limited and should be used cautiously",
+      "Nutritional value": "Contains alkaloids"
+    ,
+    "description": "Areca Nut is a tall palm tree known for producing betel nuts. It is widely cultivated in tropical regions. The nuts are used in cultural practices and traditional medicine. The tree requires a humid climate and well-drained soil.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, regular watering, tropical climate",
+    "disease_prevention": "Ensure drainage\nAvoid waterlogging\nProtect from pests\nUse organic manure",
+    "usage": "Used in cultural practices and paan"
+  },
+
+  "Bhringraj (भृंगराज)": {
+    "scientific_name": "Eclipta alba",
+    
+      "medicinal_uses": "Promotes hair growth, improves liver health",
+      "Culinary": "Used in herbal preparations",
+      "Ornamental": "Ground cover"
+    ,
+    
+      "Health benefits": "Supports hair and liver health",
+      "Nutritional value": "Contains bioactive compounds"
+    ,
+    "description": "Bhringraj is a well-known medicinal herb in Ayurveda, especially for hair care. It helps in strengthening hair and improving liver function. The plant grows easily in moist conditions and spreads quickly.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, moist soil",
+    "disease_prevention": "Maintain moisture\nAvoid dryness\nUse compost\nEnsure clean soil",
+    "usage": "Used in hair oils and herbal medicine"
+  },
+
+  "Periwinkle (सदाबहार)": {
+    "scientific_name": "Catharanthus roseus",
+    
+      "medicinal_uses": "Used in cancer treatment compounds",
+      "Culinary": "Not used",
+      "Ornamental": "Flowering plant"
+    ,
+    
+      "Health benefits": "Contains medicinal alkaloids",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Periwinkle is a small flowering plant known for its medicinal importance. It contains compounds used in cancer treatment drugs. It is also widely grown as an ornamental plant due to its colorful flowers.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure airflow\nRemove dead parts\nControl pests",
+    "usage": "Used in medicine and decoration"
+  },
+
+  "Coffee Plant (कॉफी पौधा)": {
+    "scientific_name": "Coffea arabica",
+    
+      "medicinal_uses": "Stimulates alertness",
+      "Culinary": "Beans used to make coffee",
+      "Ornamental": "Indoor plant"
+    ,
+    
+      "Health benefits": "Boosts energy and focus",
+      "Nutritional value": "Contains caffeine and antioxidants"
+    ,
+    "description": "Coffee Plant is a tropical plant known for producing coffee beans. It grows best in shaded environments with regular watering. The beans are processed to make coffee, one of the most popular beverages worldwide.",
+    "category": "Shrub",
+    "care_instructions": "Partial shade, regular watering, rich soil",
+    "disease_prevention": "Avoid direct harsh sunlight\nMaintain moisture\nUse compost\nProtect from pests",
+    "usage": "Used for coffee production"
+  },
+
+  "Crown Flower (अकौआ)": {
+    "scientific_name": "Calotropis gigantea",
+    
+      "medicinal_uses": "Used in traditional remedies (caution)",
+      "Culinary": "Not used",
+      "Ornamental": "Flowering shrub"
+    ,
+    
+      "Health benefits": "Limited medicinal use",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Crown Flower is a hardy shrub known for its waxy flowers. It grows in dry and arid regions with minimal care. The plant has traditional medicinal uses but must be handled carefully due to its toxicity.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, low watering, dry soil",
+    "disease_prevention": "Avoid overwatering\nEnsure sunlight\nMinimal care required\nCheck pests",
+    "usage": "Used in traditional medicine and decoration"
+  },
+
+  "Poppy Seeds (खसखस)": {
+    "scientific_name": "Papaver somniferum",
+    
+      "medicinal_uses": "Used for calming and pain relief",
+      "Culinary": "Used in sweets and cooking",
+      "Ornamental": "Flowering plant"
+    ,
+    
+      "Health benefits": "Calming effect",
+      "Nutritional value": "Rich in healthy fats and minerals"
+    ,
+    "description": "Poppy plant produces seeds that are widely used in cooking. The seeds are small and nutritious. The plant is also known for its beautiful flowers. It requires moderate care and grows in suitable climates.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Avoid excess water\nEnsure airflow\nUse compost\nControl pests",
+    "usage": "Used in cooking and medicine"
+  },
+
+  "Globe Amaranth (गुलदाउदी अमरनाथ)": {
+    "scientific_name": "Gomphrena globosa",
+    
+      "medicinal_uses": "Used in herbal teas",
+      "Culinary": "Used in tea preparations",
+      "Ornamental": "Decorative flower"
+    ,
+    
+      "Health benefits": "Supports respiratory health",
+      "Nutritional value": "Contains antioxidants"
+    ,
+    "description": "Globe Amaranth is a flowering plant known for its round, colorful blooms. It is commonly used in dried flower arrangements and herbal teas. The plant is easy to grow and thrives in warm climates.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nEnsure sunlight\nRemove dead flowers\nUse compost",
+    "usage": "Used in decoration and herbal tea"
+  },
+
+  "Indian Beech (करंज)": {
+    "scientific_name": "Pongamia pinnata",
+    
+      "medicinal_uses": "Used in skin treatments",
+      "Culinary": "Not used",
+      "Ornamental": "Shade tree"
+    ,
+    
+      "Health benefits": "Antibacterial properties",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Indian Beech is a medium-sized tree commonly used for shade and environmental benefits. It is also used in traditional medicine and for producing biofuel. The plant grows well in tropical climates.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, low watering, hardy soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nUse compost\nEnsure airflow",
+    "usage": "Used for shade, medicine, and biofuel"
+  },
+
+  "Musk Mallow (कस्तूरी भिंडी)": {
+    "scientific_name": "Abelmoschus moschatus",
+    
+      "medicinal_uses": "Improves digestion, used in traditional remedies",
+      "Culinary": "Limited use",
+      "Ornamental": "Flowering plant"
+    ,
+    
+      "Health benefits": "Digestive aid",
+      "Nutritional value": "Contains aromatic compounds"
+    ,
+    "description": "Musk Mallow is a flowering plant known for its fragrant seeds and medicinal properties. It grows in warm climates and is used in traditional medicine. The plant also adds ornamental value to gardens.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure airflow\nUse compost\nControl pests",
+    "usage": "Used in medicine and decoration"
+  },
+
+  "Kohlrabi (गांठ गोभी)": {
+    "scientific_name": "Brassica oleracea var. gongylodes",
+    
+      "medicinal_uses": "Supports digestion and immunity",
+      "Culinary": "Used in curries, salads, and soups",
+      "Ornamental": "Kitchen garden plant"
+    ,
+    
+      "Health benefits": "Good for digestion and weight management",
+      "Nutritional value": "Rich in fiber, Vitamin C, and potassium"
+    ,
+    "description": "Kohlrabi is a cool-season vegetable known for its swollen stem, which is edible and nutritious. It has a mild, sweet flavor and is used in various dishes. The plant grows best in cooler climates with fertile soil and regular watering.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Rotate crops\nAvoid overcrowding\nControl pests\nUse compost",
+    "usage": "Used as vegetable"
+  },
+
+  "Malabar Nut (अडूसा)": {
+    "scientific_name": "Justicia adhatoda",
+    
+      "medicinal_uses": "Treats cough, cold, respiratory issues",
+      "Culinary": "Not used",
+      "Ornamental": "Medicinal shrub"
+    ,
+    
+      "Health benefits": "Supports respiratory health",
+      "Nutritional value": "Contains alkaloids"
+    ,
+    "description": "Malabar Nut, also known as Adulsa, is a medicinal shrub widely used in Ayurveda. It is effective in treating respiratory disorders such as cough and asthma. The plant grows well in tropical climates and requires minimal care.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure airflow\nPrune regularly\nUse compost",
+    "usage": "Used in herbal medicine"
+  },
+
+  "Mint (पुदीना)": {
+    "scientific_name": "Mentha",
+    
+      "medicinal_uses": "Aids digestion, relieves nausea",
+      "Culinary": "Used in chutneys, drinks, and dishes",
+      "Ornamental": "Ground cover herb"
+    ,
+    
+      "Health benefits": "Refreshment, improves digestion",
+      "Nutritional value": "Contains essential oils and vitamins"
+    ,
+    "description": "Mint is a fast-growing aromatic herb known for its refreshing flavor and fragrance. It is widely used in cooking and beverages. The plant spreads quickly and grows well in moist soil. Mint also has medicinal properties that support digestion.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, moist soil",
+    "disease_prevention": "Control spreading\nEnsure airflow\nAvoid dryness\nUse compost",
+    "usage": "Used in cooking and herbal remedies"
+  },
+
+  "Jamun (जामुन)": {
+    "scientific_name": "Syzygium cumini",
+    
+      "medicinal_uses": "Controls blood sugar, improves digestion",
+      "Culinary": "Consumed as fruit",
+      "Ornamental": "Shade tree"
+    ,
+    
+      "Health benefits": "Good for diabetes management",
+      "Nutritional value": "Rich in iron and antioxidants"
+    ,
+    "description": "Jamun is a tropical fruit tree known for its dark purple fruits. The fruit is sweet and slightly astringent. It is widely used in traditional medicine for managing diabetes. The tree grows large and provides dense shade.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, deep soil",
+    "disease_prevention": "Prune regularly\nAvoid waterlogging\nUse compost\nControl pests",
+    "usage": "Used as fruit and medicine"
+  },
+
+  "Trumpet Flower (पदरी फूल)": {
+    "scientific_name": "Spathodea campanulata",
+    
+      "medicinal_uses": "Limited traditional uses",
+      "Culinary": "Not used",
+      "Ornamental": "Decorative tree"
+    ,
+    
+      "Health benefits": "Minor traditional uses",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Trumpet Flower is a large ornamental tree known for its bright orange-red flowers shaped like trumpets. It is commonly planted for landscaping and adds aesthetic beauty to gardens and roadsides.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nEnsure airflow\nControl pests",
+    "usage": "Used for ornamental purposes"
+  },
+
+  "Night-flowering Jasmine (रात की रानी)": {
+    "scientific_name": "Nyctanthes arbor-tristis",
+    
+      "medicinal_uses": "Treats fever, improves immunity",
+      "Culinary": "Used in herbal preparations",
+      "Ornamental": "Fragrant flowering plant"
+    ,
+    
+      "Health benefits": "Supports immunity and relaxation",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Night-flowering Jasmine, also known as Parijat, is a small tree or shrub known for its fragrant flowers that bloom at night. It is widely used in religious and medicinal applications. The plant grows well in warm climates.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid overwatering\nPrune regularly\nEnsure airflow\nUse compost",
+    "usage": "Used in medicine and decoration"
+  },
+
+  "Bamboo (बांस)": {
+    "scientific_name": "Bambusoideae",
+    
+      "medicinal_uses": "Used in traditional remedies",
+      "Culinary": "Young shoots used as food",
+      "Ornamental": "Landscaping plant"
+    ,
+    
+      "Health benefits": "Eco-friendly and sustainable",
+      "Nutritional value": "    Shoots contain fiber and minerals"
+    ,
+    "description": "Bamboo is a fast-growing grass known for its strength and versatility. It is used in construction, crafts, and as food. Bamboo grows quickly and is highly sustainable. It thrives in a variety of climates and requires regular watering.",
+    "category": "Grass",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Control spreading\nEnsure drainage\nUse compost\nRemove dry canes",
+    "usage": "Used in construction, food, and decoration"
+  },
+
+  "Camphor Tree (कपूर)": {
+    "scientific_name": "Cinnamomum camphora",
+    
+      "medicinal_uses": "Used in respiratory relief and pain relief",
+      "Culinary": "Limited use",
+      "Ornamental": "Shade tree"
+    ,
+    
+      "Health benefits": "Antimicrobial and soothing",
+      "Nutritional value": "Contains essential oils"
+    ,
+    "description": "Camphor Tree is an evergreen tree known for producing camphor, which is widely used in medicine and religious practices. The tree grows large and provides shade. It thrives in warm climates and requires space.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, deep soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nUse compost\nEnsure airflow",
+    "usage": "Used in medicine and rituals"
+  },
+
+  "Eucalyptus (नीलगिरी)": {
+    "scientific_name": "Eucalyptus globulus",
+    
+      "medicinal_uses": "Used for respiratory relief",
+      "Culinary": "Not commonly used",
+      "Ornamental": "Tall tree"
+    ,
+    
+      "Health benefits": "Clears respiratory system",
+      "Nutritional value": "Contains essential oils"
+    ,
+    "description": "Eucalyptus is a fast-growing tree known for its aromatic leaves. It is widely used for extracting eucalyptus oil, which helps in treating respiratory problems. The tree grows tall and requires open space.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, low watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nEnsure spacing\nPrune regularly\nControl pests",
+    "usage": "Used for oil and medicinal purposes"
+  },
+
+  "Insulin Plant (इंसुलिन पौधा)": {
+    "scientific_name": "Costus igneus",
+    
+      "medicinal_uses": "Helps control blood sugar",
+      "Culinary": "Leaves consumed in small amounts",
+      "Ornamental": "Garden plant"
+    ,
+    
+      "Health benefits": "Supports diabetes management",
+      "Nutritional value": "Contains bioactive compounds"
+    ,
+    "description": "Insulin Plant is a medicinal plant known for its ability to help regulate blood sugar levels. The leaves are consumed in small quantities for health benefits. The plant grows well in warm climates and requires moderate care.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, well-drained soil",
+    "disease_prevention": "Avoid overwatering\nEnsure airflow\nUse compost\nProtect from pests",
+    "usage": "Used in diabetes management"
+  },
+
+  "Lantana (लैंटाना)": {
+    "scientific_name": "Lantana camara",
+    
+      "medicinal_uses": "Used in traditional remedies (caution)",
+      "Culinary": "Not used",
+      "Ornamental": "Flowering shrub"
+    ,
+    
+      "Health benefits": "Limited medicinal use",
+      "Nutritional value": "      Not applicable"
+    ,
+    "description": "Lantana is a hardy flowering shrub known for its colorful clusters of flowers. It is widely used in landscaping due to its drought resistance and ability to grow in poor soil conditions. However, it can be invasive and toxic if consumed. The plant attracts butterflies and adds beauty to gardens.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, low watering, well-drained soil",
+    "disease_prevention": "Avoid overwatering\nPrune regularly\nControl spread\nMonitor pests",
+    "usage": "Used for ornamental gardening"
+  },
+
+  "Spurge (नागदाली)": {
+    "scientific_name": "Euphorbia",
+    
+      "medicinal_uses": "Used in traditional medicine (caution)",
+      "Culinary": "Not used",
+      "Ornamental": "Decorative plant"
+    ,
+    
+      "Health benefits": "Limited medicinal use",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Spurge is a diverse group of plants known for their milky sap. Many species are grown as ornamental plants. Some have medicinal uses but must be handled carefully due to toxicity. They are drought-tolerant and easy to maintain.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, low watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure drainage\nHandle carefully\nCheck pests",
+    "usage": "Used in decoration and traditional medicine"
+  },
+
+  "Spinach (पालक)": {
+    "scientific_name": "Spinacia oleracea",
+    
+      "medicinal_uses": "Improves blood health, boosts immunity",
+      "Culinary": "Widely used leafy vegetable",
+      "Ornamental": "Kitchen garden plant"
+    ,
+    
+      "Health benefits": "Good for iron levels and overall health",
+      "Nutritional value": "Rich in iron, calcium, and vitamins"
+    ,
+    "description": "Spinach is a leafy green vegetable widely consumed for its nutritional benefits. It grows best in cool climates and is used in various dishes like curries and salads. Spinach is rich in iron and supports overall health.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, fertile soil",
+    "disease_prevention": "Avoid overcrowding\nEnsure airflow\nWater properly\nUse compost",
+    "usage": "Used as leafy vegetable"
+  },
+
+  "Pea (मटर)": {
+    "scientific_name": "Pisum sativum",
+    
+      "medicinal_uses": "Supports digestion",
+      "Culinary": "Used in various dishes",
+      "Ornamental": "Climbing plant"
+    ,
+    
+      "Health benefits": "Good for digestion and heart",
+      "Nutritional value": "Rich in protein and fiber"
+    ,
+    "description": "Pea is a cool-season vegetable grown for its edible seeds. It is widely used in cooking and is rich in protein. The plant is a climber and requires support to grow. It thrives in fertile soil and moderate climate.",
+    "category": "Climber",
+    "care_instructions": "Full sunlight, regular watering, support needed",
+    "disease_prevention": "Rotate crops\nAvoid overcrowding\nUse compost\nControl pests",
+    "usage": "Used as vegetable crop"
+  },
+
+  "Pomegranate (अनार)": {
+    "scientific_name": "Punica granatum",
+    
+      "medicinal_uses": "Improves blood health, boosts immunity",
+      "Culinary": "Consumed as fruit and juice",
+      "Ornamental": "Small tree"
+    ,
+    
+      "Health benefits": "Good for heart and blood",
+      "Nutritional value": "Rich in antioxidants and Vitamin C"
+    ,
+    "description": "Pomegranate is a small fruit tree known for its red, juicy seeds. It is highly nutritious and widely consumed fresh or as juice. The plant grows well in warm climates and requires moderate care.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Prune regularly\nAvoid waterlogging\nUse compost\nProtect from pests",
+    "usage": "Used as fruit and health supplement"
+  },
+
+  "Pumpkin (कद्दू)": {
+    "scientific_name": "Cucurbita maxima",
+    
+      "medicinal_uses": "Supports digestion",
+      "Culinary": "Used in curries, soups, sweets",
+      "Ornamental": "Creeping plant"
+    ,
+    
+      "Health benefits": "Good for digestion and immunity",
+      "Nutritional value": "Rich in fiber, Vitamin A"
+    ,
+    "description": "Pumpkin is a widely grown vegetable plant known for its large fruits. It grows as a creeper and requires space to spread. The fruit is nutritious and used in a variety of dishes. It thrives in warm climates.",
+    "category": "Creeper",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Ensure spacing\nAvoid waterlogging\nUse compost\nControl pests",
+    "usage": "Used as vegetable and in cooking"
+  },
+
+  "Radish (मूली)": {
+    "scientific_name": "Raphanus sativus",
+    
+      "medicinal_uses": "Aids digestion, detoxifies body",
+      "Culinary": "Used in salads and cooking",
+      "Ornamental": "Kitchen garden plant"
+    ,
+    
+      "Health benefits": "Supports digestion",
+      "Nutritional value": "Rich in fiber and Vitamin C"
+    ,
+    "description": "Radish is a root vegetable known for its crisp texture and pungent taste. It is widely used in salads and cooked dishes. The plant grows quickly and requires minimal care. It is beneficial for digestion and detoxification.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, regular watering, loose soil",
+    "disease_prevention": "Avoid overcrowding\nEnsure drainage\nUse compost\nRotate crops",
+    "usage": "Used as vegetable"
+  },
+
+  "Rose (गुलाब)": {
+    "scientific_name": "Rosa",
+    
+      "medicinal_uses": "Used in skincare and aromatherapy",
+      "Culinary": "Used in syrups and sweets",
+      "Ornamental": "Popular garden flower"
+    ,
+    
+      "Health benefits": "Calming and skin-friendly",
+      "Nutritional value": "Contains essential oils"
+    ,
+    "description": "Rose is one of the most popular flowering plants known for its beauty and fragrance. It is widely used in gardens, perfumes, and cosmetics. Rose petals are also used in culinary preparations like syrups and sweets.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, regular watering, fertile soil",
+    "disease_prevention": "Prune regularly\nEnsure airflow\nAvoid excess water\nUse compost",
+    "usage": "Used in decoration, perfumes, and food"
+  },
+
+  "Sapodilla (चीकू)": {
+    "scientific_name": "Manilkara zapota",
+    
+      "medicinal_uses": "Supports digestion",
+      "Culinary": "Consumed as fruit",
+      "Ornamental": "Fruit tree"
+    ,
+    
+      "Health benefits": "Good for digestion and energy",
+      "Nutritional value": "Rich in sugars, fiber, and vitamins"
+    ,
+    "description": "Sapodilla, also known as Chikoo, is a tropical fruit tree known for its sweet brown fruits. It is widely consumed fresh. The tree grows well in warm climates and requires moderate care.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nUse compost\nPrune regularly\nControl pests",
+    "usage": "Used as fruit"
+  },
+
+  "Red Sandalwood (लाल चंदन)": {
+    "scientific_name": "Pterocarpus santalinus",
+    
+      "medicinal_uses": "Used in skin treatments",
+      "Culinary": "Not used",
+      "Ornamental": "Valuable tree"
+    ,
+    
+      "Health benefits": "Anti-inflammatory and cooling",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Red Sandalwood is a rare and valuable tree known for its rich red wood. It is used in traditional medicine and cosmetics. The tree grows slowly and requires specific climatic conditions.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, low watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nEnsure sunlight\nProtect from pests\nMaintain soil quality",
+    "usage": "Used in medicine and cosmetics"
+  },
+  
+  "Ashoka Tree (सीता अशोक)": {
+    "scientific_name": "Saraca indica",
+    
+      "medicinal_uses": "Supports women's health, reduces menstrual disorders",
+      "Culinary": "Not used",
+      "Ornamental": "Decorative flowering tree"
+    ,
+    
+      "Health benefits": "Important in Ayurvedic treatments",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Seetha Ashoka is a sacred and ornamental tree known for its beautiful clusters of orange-red flowers. It holds great importance in Ayurveda, especially for treating women's health issues. The tree thrives in tropical climates and is widely planted in gardens and temples for its aesthetic and cultural value.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Prune regularly\nAvoid waterlogging\nUse compost\nEnsure airflow",
+    "usage": "Used in medicine and landscaping"
+  },
+
+  "Custard Apple (सीताफल)": {
+    "scientific_name": "Annona squamosa",
+    
+      "medicinal_uses": "Improves digestion, boosts energy",
+      "Culinary": "Consumed as fruit",
+      "Ornamental": "Small fruit tree"
+    ,
+    
+      "Health benefits": "Provides energy and nutrients",
+      "Nutritional value": "Rich in natural sugars and vitamins"
+    ,
+    "description": "Custard Apple is a tropical fruit tree known for its sweet, creamy fruit. It grows well in warm climates and requires minimal care. The fruit is highly nutritious and enjoyed fresh. The plant is also valued for its medicinal benefits.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid waterlogging\nUse compost\nProtect from pests\nPrune regularly",
+    "usage": "Used as fruit"
+  },
+
+  "Tamarind (इमली)": {
+    "scientific_name": "Tamarindus indica",
+    
+      "medicinal_uses": "Aids digestion, improves appetite",
+      "Culinary": "Used in chutneys, curries, and drinks",
+      "Ornamental": "Shade tree"
+    ,
+    
+      "Health benefits": "  Digestive aid",
+      "Nutritional value": "Rich in vitamins and minerals"
+    ,
+    "description": "Tamarind is a large tropical tree known for its tangy fruit pulp. It is widely used in Indian cuisine for adding sour flavor. The tree grows large and provides shade. It is also used in traditional medicine for digestion.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, low watering, hardy soil",
+    "disease_prevention": "Avoid waterlogging\nPrune regularly\nUse compost\nEnsure airflow",
+    "usage": "Used in cooking and medicine"
+  },
+
+  "Taro (अरबी)": {
+    "scientific_name": "Colocasia esculenta",
+    
+      "medicinal_uses": "Supports digestion",
+      "Culinary": "Used as root vegetable",
+      "Ornamental": "Garden plant"
+    ,
+    
+      "Health benefits": "Good for digestion",
+      "Nutritional value": "Rich in carbohydrates and fiber"
+    ,
+    "description": "Taro is a tropical plant grown for its edible root and leaves. It is widely used in cooking and requires moist soil to grow. The plant thrives in warm climates and is easy to cultivate.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, moist soil",
+    "disease_prevention": "Maintain moisture\nAvoid dryness\nUse compost\nEnsure clean soil",
+    "usage": "Used as vegetable"
+  },
+
+  "Tecoma (पीला कनेर)": {
+    "scientific_name": "Tecoma stans",
+    
+      "medicinal_uses": "Used in traditional remedies",
+      "Culinary": "Not used",
+      "Ornamental": "Flowering shrub"
+    ,
+    
+      "Health benefits": "Limited medicinal use",
+      "Nutritional value": "Not applicable"
+    ,
+    "description": "Tecoma is a flowering shrub known for its bright yellow trumpet-shaped flowers. It is commonly used in landscaping and grows well in warm climates. The plant requires minimal care and blooms abundantly.",
+    "category": "Shrub",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid overwatering\nPrune regularly\nEnsure sunlight\nControl pests",
+    "usage": "Used for ornamental purposes"
+  },
+
+  "Turmeric (हल्दी)": {
+    "scientific_name": "Curcuma longa",
+    
+      "medicinal_uses": "Anti-inflammatory, boosts immunity",
+      "Culinary": "Widely used spice",
+      "Ornamental": "Herb plant"
+    ,
+    
+      "Health benefits": "Supports immunity and healing",
+      "Nutritional value": "Contains curcumin"
+    ,
+    "description": "Turmeric is a widely used medicinal and culinary plant known for its bright yellow rhizome. It is an essential spice in Indian cooking and is valued for its anti-inflammatory properties. The plant grows well in warm climates with proper care.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, loose soil",
+    "disease_prevention": "Avoid waterlogging\nUse healthy rhizomes\nEnsure drainage\nApply compost",
+    "usage": "Used in cooking and medicine"
+  },
+
+  "Wood Sorrel (खट्टी बूटी)": {
+    "scientific_name": "Oxalis",
+    
+      "medicinal_uses": "Improves digestion, cooling effect",
+      "Culinary": "Used in salads and chutneys",
+      "Ornamental": "Ground cover plant"
+    ,
+    
+      "Health benefits": "Cooling and digestive",
+      "Nutritional value": "Contains Vitamin C"
+    ,
+    "description": "Wood Sorrel is a small herb known for its sour-tasting leaves. It is used in salads and traditional remedies. The plant grows easily in gardens and spreads quickly.",
+    "category": "Herb",
+    "care_instructions": "Partial sunlight, regular watering, moist soil",
+    "disease_prevention": "Avoid overwatering\nEnsure airflow\nUse compost\nControl spread",
+    "usage": "Used in food and medicine"
+  },
+
+  "Tulsi (तुलसी)": {
+    "scientific_name": "Ocimum tenuiflorum",
+    
+      "medicinal_uses": "Boosts immunity, relieves cold and cough",
+      "Culinary": "Used in herbal tea",
+      "Ornamental": "Sacred plant"
+    ,
+    
+      "Health benefits": "Improves immunity and respiratory health",
+      "Nutritional value": "Contains essential oils and antioxidants"
+    ,
+    "description": "Holy Basil, also known as Tulsi, is a sacred plant in India with strong medicinal properties. It is widely used in Ayurveda for treating respiratory issues and boosting immunity. The plant grows easily in pots and gardens.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, moderate watering, well-drained soil",
+    "disease_prevention": "Avoid excess water\nPrune regularly\nEnsure sunlight\nUse compost",
+    "usage": "Used in medicine and religious practices"
+  },
+
+  "Champak (चंपा)": {
+    "scientific_name": "Magnolia champaca",
+    
+      "medicinal_uses": "Used in traditional remedies",
+      "Culinary": "Limited use",
+      "Ornamental": "Fragrant flowering tree"
+    ,
+    
+      "Health benefits": "Calming effect",
+      "Nutritional value": "Contains aromatic compounds"
+    ,
+    "description": "Champak is a fragrant flowering tree known for its yellow-orange flowers. It is widely used in perfumes and religious offerings. The plant thrives in tropical climates and adds beauty to landscapes.",
+    "category": "Tree",
+    "care_instructions": "Full sunlight, moderate watering, fertile soil",
+    "disease_prevention": "Prune regularly\nEnsure airflow\nAvoid waterlogging\nUse compost",
+    "usage": "Used in perfumes and decoration"
+  },
+
+  "Thumbe Flower (थुम्बे)": {
+    "scientific_name": "Leucas aspera",
+    
+      "medicinal_uses": "Treats cold, fever, insect bites",
+      "Culinary": "Not commonly used",
+      "Ornamental": "Wild herb"
+    ,
+    
+      "Health benefits": "Antibacterial and healing",
+      "Nutritional value": "Contains medicinal compounds"
+    ,
+    "description": "Thumbe Flower is a medicinal herb commonly found in rural areas. It is used in traditional remedies for treating fever and insect bites. The plant grows easily in dry conditions and requires minimal care.",
+    "category": "Herb",
+    "care_instructions": "Full sunlight, low watering, dry soil",
+    "disease_prevention": "Avoid overwatering\nEnsure sunlight\nMinimal care required\nUse natural compost",
+    "usage": "Used in traditional medicine"
+  }
+}

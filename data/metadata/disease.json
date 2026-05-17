@@ -1,0 +1,223 @@
+{
+  "plant_diseases": {
+    "Bacterial Spot": {
+      "plant": "General / Multiple",
+      "scientific_cause": "Xanthomonas species",
+      "symptoms": [
+        "Small water-soaked spots on leaves",
+        "Spots turn brown with yellow halo",
+        "Leaf drop in severe cases"
+      ],
+      "causes": "Bacterial infection spread through water, tools, and infected seeds",
+      "prevention": [
+        "Use disease-free seeds",
+        "Avoid overhead watering",
+        "Maintain proper spacing"
+      ],
+      "treatment": [
+        "Remove infected leaves",
+        "Apply copper-based bactericides",
+        "Disinfect tools regularly"
+      ],
+      "category": "Bacterial"
+    },
+
+    "Bell Bacterial Spot": {
+      "plant": "Bell Pepper",
+      "scientific_cause": "Xanthomonas campestris",
+      "symptoms": [
+        "Dark spots on leaves and fruits",
+        "Leaf yellowing",
+        "Fruit lesions"
+      ],
+      "causes": "Warm, humid conditions and infected seeds",
+      "prevention": [
+        "Use resistant varieties",
+        "Avoid leaf wetness",
+        "Rotate crops"
+      ],
+      "treatment": [
+        "Remove infected parts",
+        "Use copper sprays",
+        "Maintain hygiene"
+      ],
+      "category": "Bacterial"
+    },
+
+    "Early Blight": {
+      "plant": "Multiple",
+      "scientific_cause": "Alternaria solani",
+      "symptoms": [
+        "Brown spots with concentric rings",
+        "Yellowing leaves",
+        "Premature leaf drop"
+      ],
+      "causes": "Fungal infection favored by warm and humid conditions",
+      "prevention": [
+        "Crop rotation",
+        "Use resistant varieties",
+        "Avoid wet foliage"
+      ],
+      "treatment": [
+        "Apply fungicides",
+        "Remove infected leaves",
+        "Improve airflow"
+      ],
+      "category": "Fungal"
+    },
+
+    "Late Blight": {
+      "plant": "Multiple",
+      "scientific_cause": "Phytophthora infestans",
+      "symptoms": [
+        "Dark, water-soaked lesions",
+        "White mold under leaves",
+        "Rapid plant decay"
+      ],
+      "causes": "Cool, moist conditions",
+      "prevention": [
+        "Avoid excess moisture",
+        "Use resistant varieties",
+        "Ensure spacing"
+      ],
+      "treatment": [
+        "Apply fungicides immediately",
+        "Remove infected plants",
+        "Avoid overhead irrigation"
+      ],
+      "category": "Fungal"
+    },
+
+    "Leaf Mold": {
+      "plant": "Multiple",
+      "scientific_cause": "Fulvia fulva",
+      "symptoms": [
+        "Yellow spots on upper leaf",
+        "Gray mold underneath",
+        "Leaf curling"
+      ],
+      "causes": "High humidity and poor ventilation",
+      "prevention": [
+        "Improve airflow",
+        "Reduce humidity",
+        "Avoid overcrowding"
+      ],
+      "treatment": [
+        "Remove infected leaves",
+        "Apply fungicide",
+        "Control humidity"
+      ],
+      "category": "Fungal"
+    },
+
+    "Leaf Spot": {
+      "plant": "Multiple",
+      "scientific_cause": "Septoria lycopersici",
+      "symptoms": [
+        "Small round spots with dark borders",
+        "Yellowing leaves",
+        "Leaf drop"
+      ],
+      "causes": "Fungal spores spread by water",
+      "prevention": [
+        "Avoid wet leaves",
+        "Crop rotation",
+        "Use clean tools"
+      ],
+      "treatment": [
+        "Remove affected leaves",
+        "Apply fungicide",
+        "Improve airflow"
+      ],
+      "category": "Fungal"
+    },
+
+    "Spider Mites": {
+      "plant": "Multiple",
+      "scientific_cause": "Tetranychus urticae",
+      "symptoms": [
+        "Yellow speckled leaves",
+        "Fine webbing",
+        "Leaf drying"
+      ],
+      "causes": "Dry and hot conditions",
+      "prevention": [
+        "Maintain humidity",
+        "Spray water regularly",
+        "Inspect plants"
+      ],
+      "treatment": [
+        "Use neem oil",
+        "Apply insecticidal soap",
+        "Wash leaves"
+      ],
+      "category": "Pest"
+    },
+
+    "Target Spot": {
+      "plant": "Multiple",
+      "scientific_cause": "Corynespora cassiicola",
+      "symptoms": [
+        "Brown spots with rings",
+        "Leaf yellowing",
+        "Fruit lesions"
+      ],
+      "causes": "Warm, humid weather",
+      "prevention": [
+        "Crop rotation",
+        "Avoid overcrowding",
+        "Use resistant varieties"
+      ],
+      "treatment": [
+        "Apply fungicide",
+        "Remove infected leaves",
+        "Improve airflow"
+      ],
+      "category": "Fungal"
+    },
+
+    "Mosaic Virus": {
+      "plant": "Multiple",
+      "scientific_cause": "Tomato mosaic virus",
+      "symptoms": [
+        "Mottled leaves",
+        "Stunted growth",
+        "Distorted fruits"
+      ],
+      "causes": "Virus spread through contact and tools",
+      "prevention": [
+        "Disinfect tools",
+        "Avoid handling infected plants",
+        "Use resistant varieties"
+      ],
+      "treatment": [
+        "Remove infected plants",
+        "No chemical cure",
+        "Control spread"
+      ],
+      "category": "Viral"
+    },
+
+    "Yellow Leaf Curl Virus": {
+      "plant": "Multiple",
+      "scientific_cause": "Begomovirus",
+      "symptoms": [
+        "Yellow curled leaves",
+        "Stunted growth",
+        "Reduced yield"
+      ],
+      "causes": "Spread by whiteflies",
+      "prevention": [
+        "Control whiteflies",
+        "Use resistant varieties",
+        "Use insect nets"
+      ],
+      "treatment": [
+        "Remove infected plants",
+        "Use neem oil for vectors",
+        "Monitor pests"
+      ],
+      "category": "Viral"
+    }
+  }
+}
