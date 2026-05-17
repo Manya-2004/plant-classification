@@ -1,5 +1,7 @@
-streamlit==1.35.0
-tensorflow==2.15.0
+streamlit
+tf-keras
+tensorflow==2.16.1
+keras==3.3.3
 numpy==1.26.4
 pillow
 requests
