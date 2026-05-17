@@ -1,3 +1,0 @@
-langchain
-langgraph
-pydantic>=2.0
