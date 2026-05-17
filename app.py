@@ -73,40 +73,40 @@ def load_models():
     models = {
 
         "level1": tf.keras.models.load_model(
-            "models/level1_model.keras"
+            "models/level1_model.keras",
             compile=False, safe_mode=False ),
 
         "trees_fruits": tf.keras.models.load_model(
-            "models/trees_model.keras"
+            "models/trees_model.keras",
             compile=False, safe_mode=False ),
 
         "herbs_medicinal": tf.keras.models.load_model(
-            "models/herbs_model.keras"
+            "models/herbs_model.keras",
             compile=False, safe_mode=False
         ),
 
         "vegetables": tf.keras.models.load_model(
-            "models/vegetables_model.keras"
+            "models/vegetables_model.keras",
             compile=False, safe_mode=False
         ),
 
         "flowers": tf.keras.models.load_model(
-            "models/flowers_model.keras"
+            "models/flowers_model.keras",
             compile=False, safe_mode=False
         ),
 
         "weeds": tf.keras.models.load_model(
-            "models/weeds_model.keras"
+            "models/weeds_model.keras",
             compile=False, safe_mode=False
         ),
 
         "climbers": tf.keras.models.load_model(
-            "models/climbers_model.keras"
+            "models/climbers_model.keras",
             compile=False, safe_mode=False
         ),
 
         "disease": tf.keras.models.load_model(
-            "models/diseases_model.keras"
+            "models/diseases_model.keras",
             compile=False, safe_mode=False
         )
     }
